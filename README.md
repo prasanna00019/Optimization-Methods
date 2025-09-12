@@ -5,11 +5,12 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 ## 📋 Repository Contents
 
 ### Implemented Methods:
-1. **Unrestricted Search Optimization** - [View Implementation](./Unrestricted_Search.ipynb)
+1. **Unrestricted Search Method** - [View Implementation](./Unrestricted_Search.ipynb)
+2. **Dichotomous Search Method** - [View Implementation](./Dichotomous_Search.ipynb)
 
 ## 📊 Current Status
 
-- ✅ Unrestricted Search: Complete with analysis
+- ✅ Unrestricted Search , ✅ Dichotomous Search
 - 🔄 Additional methods: Coming soon
 
 ## 🤝 Contributing
