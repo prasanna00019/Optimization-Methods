@@ -9,6 +9,7 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 2. **Dichotomous Search Method** - [View Implementation](./Dichotomous_Search.ipynb)
 3. **Internal Halving Method** - [View Implementation](./Internal_Halving_Method.ipynb)
 4. **Golden Section Method** - [View Implementation](./Golden_Section_Search.ipynb)
+5. **Fibonacci Method** - [View Implementation](./Fibonacci_Search.ipynb)
 
 ## 📊 Current Status
 
