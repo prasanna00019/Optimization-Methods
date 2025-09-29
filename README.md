@@ -11,6 +11,7 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 4. **Golden Section Method** - [View Implementation](./Golden_Section_Search.ipynb)
 5. **Fibonacci Method** - [View Implementation](./Fibonacci_Search.ipynb)
 6. **Simplex Method(Dual & normal simplex)** - [View Implementation](./Simplex_Method.ipynb)
+7. **Two Phase Simplex Method** - [View Implementation](./Two_Phase_Simplex.ipynb)
 
 ## 📊 Current Status
 
