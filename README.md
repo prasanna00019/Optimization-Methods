@@ -1,6 +1,6 @@
 # Optimization Methods for Engineering Applications (OMEA)
 
-A comprehensive collection of optimization algorithms implemented in Python for engineering applications, including linear, nonlinear, and constrained optimization methods with practical examples and detailed analysis.
+A comprehensive collection of optimization algorithms implemented in Python for engineering applications, including linear, nonlinear, and constrained optimization methods with practical examples.
 
 ## 📋 Repository Contents
 
@@ -19,6 +19,7 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 12. **Newton Raphson Method** - [View Implementation](Newton_Rapshon.ipynb)
 13. **Quasi Newton Method** - [View Implementation](Quasi_Newton_Method.ipynb)
 14. **Secant Method** - [View Implementation](Secant_Method.ipynb)
+15. **Binary Genetic Algorithm** -[View Implementation](Genetic_Algorithm_Binary.ipynb)
 
 ## 📊 Current Status
 
