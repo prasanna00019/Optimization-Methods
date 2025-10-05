@@ -16,7 +16,8 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 9. **Newton Method for Multivariable** - [View Implementation](./Newton_Method.ipynb)
 10. **Steepest Descent(Cauchy) Method** - [View Implementation](Gradient_Methods/Steepest_Descent_Method.ipynb)
 11. **Conjugate Gradient Method** - [View Implementation](Gradient_Methods/Conjugate_Gradient_Method.ipynb)
-12. **Newton Raphson Method** -[View Implementation](Newton_Rapshon.ipynb)
+12. **Newton Raphson Method** - [View Implementation](Newton_Rapshon.ipynb)
+13. **Quasi Newton Method** - [View Implementation](Quasi_Newton_Method.ipynb)
 
 ## 📊 Current Status
 
