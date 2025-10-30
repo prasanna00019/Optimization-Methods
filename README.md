@@ -20,10 +20,7 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 13. **Quasi Newton Method** - [View Implementation](Quasi_Newton_Method.ipynb)
 14. **Secant Method** - [View Implementation](Secant_Method.ipynb)
 15. **Binary Genetic Algorithm** -[View Implementation](Genetic_Algorithm_Binary.ipynb)
-
-## 📊 Current Status
-
-- 🔄 Additional methods: Coming soon
+16. **Simulated Annealing** -[View Implementation](Simulated_Annealing.ipynb)
 
 ## 🤝 Contributing
 
