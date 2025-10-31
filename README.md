@@ -22,6 +22,7 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 15. **Binary Genetic Algorithm** -[View Implementation](Genetic_Algorithm_Binary.ipynb)
 16. **Simulated Annealing** -[View Implementation](Simulated_Annealing.ipynb)
 17. **Particle Swarm Optimization** -[View Implementation](Particle_Swarm_Optimization.ipynb)
+18. **Teaching Learning Based Optimization** - [View Implementation](Teaching_Learning_Based_Optimization.ipynb)
 
 ## 🤝 Contributing
 
