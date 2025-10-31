@@ -21,6 +21,7 @@ A comprehensive collection of optimization algorithms implemented in Python for 
 14. **Secant Method** - [View Implementation](Secant_Method.ipynb)
 15. **Binary Genetic Algorithm** -[View Implementation](Genetic_Algorithm_Binary.ipynb)
 16. **Simulated Annealing** -[View Implementation](Simulated_Annealing.ipynb)
+17. **Particle Swarm Optimization** -[View Implementation](Particle_Swarm_Optimization.ipynb)
 
 ## 🤝 Contributing
 
